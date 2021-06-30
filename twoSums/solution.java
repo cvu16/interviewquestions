@@ -1,3 +1,6 @@
+/*
+You came up with this solution. Not using hash maps might help with memory but this is time O(n^2)
+*/
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int size = nums.length;
