@@ -1,6 +1,7 @@
 /*
-The idea is simple. It creates a size 26 int arrays as buckets for each letter in alphabet. It increments the bucket value with String s and decrement with string t. 
-So if they are anagrams, all buckets should remain with initial value which is zero. So just checking that and return
+Creates a size 26 int arrays as 26 slots for each letter in alphabet. Loop through the string s and add 1 to the slots of its letters.
+Loop through the string t and then minus 1 to the slots of its letter. 
+If they are anagrams, all slots should be cancelled out or remain zero.
 */
 public class Solution {
     public boolean isAnagram(String s, String t) {
