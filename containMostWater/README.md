@@ -8,10 +8,10 @@ The simple way is to take all possibilities of ```(i, j)``` and compare all obta
 
 What we gonna do is to choose all possibilities of ```(i, j``` in a wise way. I noticed that many submitted solutions here can't explain why when :
 
-  ```ai < aj``` we will check the next 
-  ```(i+1, j)``` (or move i to the right)
-  ```ai >= aj``` we will check the next 
-  ```(i, j-1)``` (or move j to the left)
+```ai < aj``` we will check the next 
+```(i+1, j)``` (or move i to the right)
+```ai >= aj``` we will check the next 
+```(i, j-1)``` (or move j to the left)
  
 Here is the explaination for that:
 
