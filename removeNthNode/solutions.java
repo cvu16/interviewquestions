@@ -18,6 +18,7 @@ class Solution {
             size++;
         }
         int target = size - n;
+        //The special case that the target is the head itself
         if(target==0){
             head=head.next;
             return head;
