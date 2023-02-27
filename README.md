@@ -7,6 +7,8 @@ Reddit's 75 LeetCode Questions: https://www.teamblind.com/post/New-Year-Gift---C
 Open Source of pre-coded algorithms: https://the-algorithms.com/  
 Pitt's Zero to Offer: https://pittcs.wiki/zero-to-offer/  
 
+Update: Including ICPC Practice problems
+
 
 ## Rules
 Spend at most 15 minutes on Easy problems. Spend at most 30 minutes on Medium problems. Spend 1 hour on Hard problems. If you can't figure it out then look at discussion or google it.
